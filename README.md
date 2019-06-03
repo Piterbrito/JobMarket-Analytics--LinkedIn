@@ -1,4 +1,4 @@
 # Web-Scraping-JobMarket-Analytics--LinkedIn
 
 
-![x]("img/img")
+![x]("img/linkedinData.png")
