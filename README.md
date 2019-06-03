@@ -1,1 +1,1 @@
-# Web-Scraping-JobMarket-Analytics--LinkediN
+# Web-Scraping-JobMarket-Analytics--LinkedIn
