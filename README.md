@@ -1,10 +1,13 @@
 # Web-Scraping-JobMarket-Analytics--LinkedIn
 
 
-![x](img/Zoom 12.png)
+![x](static/images/Zoom10.png)
 
-![x](img/Zoom 13.png)
 
-![x](img/Zoom 14.png)
+![x](static/images/Zoom13.png)
 
-![x](img/Zoom 15.png)
+
+![x](static/images/Zoom14.png)
+
+
+![x](static/images/Zoom15.png)
