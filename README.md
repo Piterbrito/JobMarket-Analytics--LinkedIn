@@ -13,7 +13,7 @@ The Goal was uncover trends and gaps on Job market to help candidates be more co
 * Extract data
 * Transform
 * Load
-#
+
 #### Phase 2
 * Perform Analytics
 * Create Visualizations
