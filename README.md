@@ -3,7 +3,7 @@
 
 # Background
 
-Extract Data from Job-Listing such Indeed, Google, mainly from LinkedIn. 
+Extract Data from Job-Listing such Indeed, Google and LinkedIn. 
 
 
 # Goals
