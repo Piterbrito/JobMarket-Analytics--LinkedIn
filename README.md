@@ -1,4 +1,5 @@
 # Web-Scraping-JobMarket-Analytics--LinkedIn
+![x](static/images/Zoom15.png)
 
 # Background
 
@@ -23,7 +24,7 @@ The Goal was uncover trends and gaps on Job market to help candidates be more co
 
 It was a 2 weeks Project.
 
-#### 35% time consulmed
+#### 40% time consulmed
 
 * Extracted "Analyst-Profile data from Google Search" using BeautifulSoap library to scrap the pages and Splinter to build the Bot.
 
@@ -33,7 +34,7 @@ It was a 2 weeks Project.
 #
 
 
-#### 35% time consulmed
+#### 30% time consulmed
 * Transformed the data using Pandas and Numpy, performing the cleaning and formatting.
 
 * Creating Functions to make all functions interact  the all process automatic.
@@ -54,7 +55,11 @@ It was a 2 weeks Project.
 * Performed Analytics to uncover trends such as Top Skills and Companies.
 * Created Visualizations using Matplotlib.
 
+#### Now, in progress..
 
+* Creating a API, with all the data
+* Creating Data aplication pipeline
+* Creating a Machine Learning Model with "NLP" Algorithm
 
 
 # Presentation
