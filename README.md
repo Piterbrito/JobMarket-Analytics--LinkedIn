@@ -3,7 +3,7 @@
 
 # Background
 
-Extract Data from Job-Listing such Indeed, Google and LinkedIn. 
+Extract Analyst Job and Profile description from Job-Listing web-site such as Indeed, Google and LinkedIn. 
 
 
 # Goals
