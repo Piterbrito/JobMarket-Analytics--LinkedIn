@@ -61,6 +61,14 @@ It was a 2 weeks Project.
 * Creating Data aplication pipeline
 * Creating a Machine Learning Model with "NLP" Algorithm
 
+# Alumni Visualization
+
+![x](static/images/alumni.png)
+
+
+
+![x](static/images/alumnis.png)
+
 
 # Presentation
 
