@@ -8,11 +8,12 @@ Extract Data from Job-Listing such Indeed, Google, mainly from LinkedIn.
 # Goals
 
 The Goal was uncover trends and gaps on Job market to help candidates be more competitive against resume-scan software. Next phase is train a model on our data and create an online application.
-
+#### Phase 1
 * Extract data
 * Transform
 * Load
 #
+#### Phase 2
 * Perform Analytics
 * Create Visualizations
 * Display findings in a Dashboard
@@ -20,7 +21,9 @@ The Goal was uncover trends and gaps on Job market to help candidates be more co
 
 # What I have done in this project
 
-35% time consulmed
+It was a 2 weeks Project.
+
+#### 35% time consulmed
 
 * Extracted "Analyst-Profile data from Google Search" using BeautifulSoap library to scrap the pages and Splinter to build the Bot.
 
@@ -29,7 +32,8 @@ The Goal was uncover trends and gaps on Job market to help candidates be more co
 * Created features to make the bot operate under the radar and do not get blocked.
 #
 
-35% time consulmed
+
+#### 35% time consulmed
 * Transformed the data using Pandas and Numpy, performing the cleaning and formatting.
 
 * Creating Functions to make all functions interact  the all process automatic.
@@ -38,18 +42,17 @@ The Goal was uncover trends and gaps on Job market to help candidates be more co
 
 #
 
-15% time consulmed
+
+#### 15% time consulmed
 * First attempt into store into Csv file and PgnSQL database, but it didnt work well, because of the properties  of raw data.
 * Load into MongoDB Database in the Json format, because of high volume of rows for each record.
 
 #
-15% time consulmed
+
+#### 15% time consulmed
 * Analysis, I narrow the research into a niche, only "UC Berkeley Extension Alumni"
 * Performed Analytics to uncover trends such as Top Skills and Companies.
 * Created Visualizations using Matplotlib.
-
-#
-
 
 
 
