@@ -1,5 +1,5 @@
 # Web-Scraping-JobMarket-Analytics--LinkedIn
-![x](img/reactDashPic1.JPG)
+![x](static/images/reactDashPic1.JPG)
 
 # Background
 
@@ -71,21 +71,21 @@ It was a 2 weeks Project.
 
 # How to run
 
-![x](img/installpic1.jpg)
+![x](static/images/installpic1.JPG)
 
-![x](img/installpic2.jpg)
+![x](static/images/installpic2.JPG)
 
 # Dashboard
 
-![x](img/reactDashPic1.jpg)
+![x](static/images/reactDashPic1.JPG)
 
-![x](img/rdp2.jpg)
+![x](static/images/rdp2.JPG)
 
-![x](img/rdp3.jpg)
+![x](static/images/rdp3.JPG)
 
-![x](img/rdp4.jpg)
+![x](static/images/rdp4.JPG)
 
-![x](img/rdp5.jpg)
+![x](static/images/rdp5.JPG)
 
 
 # Presentation
