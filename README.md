@@ -85,8 +85,6 @@ It was a 2 weeks Project.
 
 ![x](static/images/rdp4.JPG)
 
-![x](static/images/rdp5.JPG)
-
 
 # Presentation
 
